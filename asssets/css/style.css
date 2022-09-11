@@ -1,7 +1,7 @@
 /* @media (min-width:992px) */
 
 .col-log-6 {
-    flex:0 0 auto;
+    flex:auto;
     width: 50%
 }
 
@@ -22,9 +22,9 @@
     max-width:100%;
     height: auto;
 } 
-img,svg {
+/* img,svg {
     vertical-align: middle;
-}
+} */
 
 *, ::after , ::before {
     box-sizing: border-box;
@@ -40,4 +40,8 @@ padding-right: 10px;
 border-radius: 10px;
 background-blend-mode: multiply;
 
+}
+
+#recipes {
+    padding-bottom: 5%;
 }
