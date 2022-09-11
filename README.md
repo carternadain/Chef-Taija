@@ -17,6 +17,9 @@ This application was developed for a local chef who is jump starting her career 
 To obtain the code in this applcation please copy the `https link` open your terminal and `git clone`
 
 
+# Live Application 
+https://carternadain.github.io/Chef-Taija/ 
+
 
 # Contact 
 Please contact me with any questions `Email:Cnadain@gmail.com`
